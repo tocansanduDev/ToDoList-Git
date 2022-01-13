@@ -14,12 +14,10 @@ class LoginViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        
-        print("This is created in a new Branch")
     }
     
 
-    /*
+    /*git as
     // MARK: - Navigation
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
